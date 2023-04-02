@@ -1,5 +1,13 @@
 import java.util.Scanner;
-
+/**
+ *
+ * @author Trevor Hartman
+ * @since Version 1.0
+ *
+ * @author Colton Simpson
+ * @since Version 1.1
+ *
+ */
 public class ArrayProcessing {
     private final int[] array;
     public final Scanner scanner;

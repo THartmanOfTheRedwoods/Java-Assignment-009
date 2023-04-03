@@ -3,8 +3,9 @@ import java.util.Scanner;
 
 /**
  * Assignment 09
- * Author: Ricky GPT
+ * Author: Ricky G
  * Date: 2023-04-02
+ * Accidently pushed to the main branch so here is the Spring2023 idk if if matters now
  */
 public class ArrayProcessing {
     private int[] numbers = new int[5];

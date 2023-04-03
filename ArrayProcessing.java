@@ -3,6 +3,7 @@
  * @author Samuel Theiss
  *
  * @since Version 1.0
+ *
  */
 
 import java.util.Scanner;
